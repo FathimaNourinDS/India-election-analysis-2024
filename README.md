@@ -74,5 +74,3 @@ This Power BI project provides an analytical view of Indian General Election res
 ## 👩‍💻 Author
 
 **Fathima Nourin**  
-GitHub: [@fathimanourin](https://github.com/fathimanourin)  
-LinkedIn: [linkedin.com/in/fathimanourin](https://linkedin.com/in/fathimanourin)
