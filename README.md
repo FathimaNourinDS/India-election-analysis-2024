@@ -55,9 +55,10 @@ This Power BI project provides an analytical view of Indian General Election res
 ### 🌍Party Details By Constituency
 ![Political Landscape](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/ccd7e19f7b7a76815aa98ddd794c90bd18429d89/screenshots/landscape.png)
 
+### Winning Details Of Candidates By Their Consistuency
+![Consistuency](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/30848dfc9c582d9752e7904edd9534d59dfcc0f7/screenshots/consistuency.png)
 
 
-![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
