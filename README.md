@@ -48,7 +48,7 @@ This Power BI project provides an analytical view of Indian General Election res
 
 
 ### 🧑‍🤝‍🧑 Candidate Rankings by Constituency
-![Candidate Rankings](screenshots/candidate-rankings.png)
+![Candidate Rankings](screenshots/candidate-rankings.png)(https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/df1fbcade0c94f06ec0764bdfb23b2d528157b04/screenshots/landing%20page.png)
 
 ### 🌍 Regional Heat Map of Results
 ![Geo Map](screenshots/geo-map.png)
