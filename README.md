@@ -43,7 +43,7 @@ This Power BI project provides an analytical view of Indian General Election res
 
 ## 🖼️ Report Screenshots
 
-### 📌Landing Page
+### 📌 Landing Page
 ![Nvigation to different pages](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/df1fbcade0c94f06ec0764bdfb23b2d528157b04/screenshots/landing%20page.png)
 
 ### 🧑‍🤝‍🧑 Overview Of Entire Party In Election
@@ -52,15 +52,18 @@ This Power BI project provides an analytical view of Indian General Election res
 ### 🌍 State Demographic By Winning Partys And Constituency
 ![State Demographic](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/9c55ad1ef021cc3f0f3aa482425a2b18f33d9864/screenshots/demographic.png)
 
-### 🌍Party Details By Constituency
+### 🌍 Party Details By Constituency
 ![Political Landscape](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/ccd7e19f7b7a76815aa98ddd794c90bd18429d89/screenshots/landscape.png)
 
-### Winning Details Of Candidates By Their Consistuency
+### 🧑‍🤝‍🧑Winning Details Of Candidates By Their Consistuency
 ![Consistuency](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/30848dfc9c582d9752e7904edd9534d59dfcc0f7/screenshots/consistuency.png)
 
+### 🧑‍🤝‍🧑Entire Details Of  Candidates Participated in Indian election
+![Details](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/3323bb60bd5e388d16f83625f2cf773a8a85d7e8/screenshots/details.png)
 
-![Geo Map](screenshots/geo-map.png)
-![Geo Map](screenshots/geo-map.png)
+### Drill Down Features
+
+![Geo Map]()
 ![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
 
