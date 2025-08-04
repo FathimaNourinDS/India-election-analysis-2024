@@ -44,7 +44,7 @@ This Power BI project provides an analytical view of Indian General Election res
 ## 🖼️ Report Screenshots
 
 ### 📌Landing Page
-![Navigation to different pages](screenshots/landing page.png)
+![Navigation to different pages](landing page.png)
 
 ### 🧑‍🤝‍🧑 Candidate Rankings by Constituency
 ![Candidate Rankings](screenshots/candidate-rankings.png)
