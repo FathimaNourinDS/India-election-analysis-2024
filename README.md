@@ -52,8 +52,11 @@ This Power BI project provides an analytical view of Indian General Election res
 ### 🌍 State Demographic By Winning Partys And Constituency
 ![State Demographic](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/9c55ad1ef021cc3f0f3aa482425a2b18f33d9864/screenshots/demographic.png)
 
+### 🌍Party Details By Constituency
+![Political Landscape](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/ccd7e19f7b7a76815aa98ddd794c90bd18429d89/screenshots/landscape.png)
 
-![Geo Map](screenshots/geo-map.png)
+
+
 ![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
