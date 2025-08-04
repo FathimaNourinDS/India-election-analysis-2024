@@ -44,7 +44,7 @@ This Power BI project provides an analytical view of Indian General Election res
 ## 🖼️ Report Screenshots
 
 ### 📌Landing Page
-![Navigation to different pages](screenshots/landing page.png)
+[![Navigation to different pages](screenshots/landing page.png)](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/088515818c51d21078f72392aadd6dc2924f0d7b/screenshots/consistuency.png)
 
 
 ### 🧑‍🤝‍🧑 Candidate Rankings by Constituency
