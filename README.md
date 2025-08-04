@@ -63,7 +63,7 @@ This Power BI project provides an analytical view of Indian General Election res
 
 ### Drill Down Features
 
-![Geo Map]()
+![Geo Map](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/2f1306b50ff781fe06bbd662f92f6f5378fb3a42/screenshots/drill%20down%20(1).png)
 ![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
 
