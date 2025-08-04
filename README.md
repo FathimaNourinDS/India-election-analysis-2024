@@ -43,8 +43,8 @@ This Power BI project provides an analytical view of Indian General Election res
 
 ## 🖼️ Report Screenshots
 
-### 📌 Party Performance Overview
-![Party Performance](screenshots/party-performance.png)
+### 📌Landing Page
+![Navigation to different pages](screenshots/party-performance.png)
 
 ### 🧑‍🤝‍🧑 Candidate Rankings by Constituency
 ![Candidate Rankings](screenshots/candidate-rankings.png)
