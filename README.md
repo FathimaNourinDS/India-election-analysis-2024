@@ -49,7 +49,15 @@ This Power BI project provides an analytical view of Indian General Election res
 ### 🧑‍🤝‍🧑 Overview Of Entire Party In Election
 ![Overview](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/df1fbcade0c94f06ec0764bdfb23b2d528157b04/screenshots/overview%20analysis.png)
 
-### 🌍 Regional Heat Map of Results
+### 🌍 State Demographic By Winning Partys And Constituency
+![State Demographic](https://github.com/FathimaNourinDS/India-election-analysis-2024/blob/9c55ad1ef021cc3f0f3aa482425a2b18f33d9864/screenshots/demographic.png)
+
+
+![Geo Map](screenshots/geo-map.png)
+![Geo Map](screenshots/geo-map.png)
+![Geo Map](screenshots/geo-map.png)
+![Geo Map](screenshots/geo-map.png)
+![Geo Map](screenshots/geo-map.png)
 ![Geo Map](screenshots/geo-map.png)
 
 ---
